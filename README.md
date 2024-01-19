@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shibil Salim</h1>
 <h3 align="center">Crafting seamless user experiences, one line of code at a time. 🚀</h3>
 
-
 - 🌱 I’m currently learning **React-Native**
 
 <h3 align="left">Connect with me:</h3>
