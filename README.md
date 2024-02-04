@@ -2,6 +2,7 @@
 <h3 align="center">Crafting seamless user experiences, one line of code at a time. 🚀</h3>
 
 - 🌱 I’m currently learning **React-Native**
+- 📧 How to reach me @shbl.salim@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
